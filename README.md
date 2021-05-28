@@ -7,7 +7,9 @@ Reference: inspired by https://www.tensorflow.org/text/tutorials/transformer#cre
 
 
 
-#### Structure
+
+
+## Structure
 transformerTF2
 - _model.py: Transformer
 - attention.py: Multihead attention
