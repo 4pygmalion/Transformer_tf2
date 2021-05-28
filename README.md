@@ -9,9 +9,7 @@ Reference: inspired by https://www.tensorflow.org/text/tutorials/transformer#cre
 
 #### Structure
 transformerTF2
--- _model.py: Transformer
--- attention.py: Multihead attention
--- decoder.py: decoder layer, decoder
--- encdoer.py: encoder layer, encoder
-
-
+- _model.py: Transformer
+- attention.py: Multihead attention
+- decoder.py: decoder layer, decoder
+- encdoer.py: encoder layer, encoder
